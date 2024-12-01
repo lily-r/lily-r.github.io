@@ -1,0 +1,16 @@
+---
+title: "Lily Ramsay"
+about:
+  template: trestles
+  image: images/headshot.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:lil@lilyramsay.com
+    - icon: github
+      href: https://github.com/lily-r
+    - icon: twitter
+      href: https://x.com/lilygramsay
+---
+
+Hi, and welcome to my corner of the internet. I’m a data analyst with over 8 years of experience, currently working for the US government in Philadelphia, Pennsylvania. This website serves as my resume and a hub for projects, notes, and other odds and ends. Whether you’re here to explore my work, collaborate, or simply connect, I’m excited to share this part of my world with you.

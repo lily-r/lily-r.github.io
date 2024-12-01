@@ -1,0 +1,5 @@
+# Projects
+
+- [Stardew Valley Crop Chooser](https://lily-r.shinyapps.io/sdvfarmingcropchooser/){target="_blank"}
+
+This is a small Shiny app built for a friend who never knew what crop to plant with the amount of gold she had.

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "lilyramsay.com"
+  navbar:
+    title: "LR"
+    background: dark
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - projects.qmd
+      - posts.qmd
+  page-footer: 
+    left: "Copyright 2024, Lily Ramsay" 
+    right: 
+      - icon: envelope
+        href: mailto:lil@lilyramsay.com
+      - icon: github
+        href: https://github.com/lily-r
+      - icon: twitter 
+        href: https://x.com/lilygramsay
+    background: dark
+
+format:
+  html:
+    theme: 
+      - lux
+      #- custom.scss
+    css: styles.css
+    toc: false
